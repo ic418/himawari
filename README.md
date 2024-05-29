@@ -6,7 +6,7 @@ The official data is provided from 2015-07-08 to 2024-05-25, covering a total of
 
 3010 Days EARTH Timelaps & Himawari-8 & 2015-07-08 to 2024-05-25 & GEO
 
-绮罗罗香织
+
 
 图片文件D:\ZY\himawari\imgs\hima920240430072000fd.png
 有问题: Truncated File Read
